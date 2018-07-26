@@ -1,0 +1,8 @@
+The dataset is large and informative, I believe you can have a lot of fun with it! Let me put some ideas below to futher inspire kagglers!
+
+Fit a regression model on reviews and score to see which words are more indicative to a higher/lower score
+Perform a sentiment analysis on the reviews
+Find correlation between reviewer's nationality and scores.
+Beautiful and informative visualization on the dataset.
+Clustering hotels based on reviews
+Simple recommendation engine to the guest who is fond of a special characteristic of hotel.
